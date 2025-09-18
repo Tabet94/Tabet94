@@ -16,7 +16,7 @@
 - 🌱 Currently learning **advanced React patterns & scalable backend architecture**.  
 - 🛠️ I love writing **clean, maintainable code** and delivering **real-world solutions**.  
 - 🌍 Freelance projects delivered across **travel, wellness, e-commerce, and industrial sectors**.  
-- ⚡ Fun fact: I enjoy mentoring junior developers and collaborating in fast-paced teams.  
+- ⚡ Fun fact: I’m always curious about how things work under the hood.  
 
 ---
 
