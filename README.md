@@ -81,9 +81,6 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/tabet-abada-870ba9225" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://portfolio-xi-teal-amu701ijru.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
