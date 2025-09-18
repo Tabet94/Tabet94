@@ -1,68 +1,88 @@
-# 👋 Hi, I'm Tabet ABADA  
 
-💻 **Full-Stack Web Developer** passionate about building scalable, responsive, and user-friendly web applications.  
-I specialize in **React.js, Node.js, Express, MongoDB, and modern frontend tools** to deliver clean, maintainable solutions.  
-
-🌍 Freelance experience across industries:  
-- 🏥 Wellness & Travel platforms  
-- 🛒 E-commerce solutions  
-- 🏭 Industrial services websites  
+<h1 align="center">Hi 👋, I'm Tabet ABADA </h1>
+<h3 align="center">💻 Full-Stack Web Developer | React.js • Node.js • MongoDB</h3>
 
 ---
 
-## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00ADB5&center=true&vCenter=true&lines=Building+scalable+modern+apps;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+learning+%26+sharing" />
+</p>
 
-**Frontend:**  
-React.js • Vite • Chakra UI • Framer Motion • Formik • React Query (TanStack v5)  
+---
 
-**Backend:**  
-Node.js • Express.js • MongoDB • SQL  
+## 🚀 About Me  
 
-**Tools & Workflow:**  
-Git • GitHub • Postman • REST APIs • Context API • Agile  
+- 🔭 I’m a **Full-Stack Developer** with hands-on experience in **React.js, Node.js, Express, and MongoDB**.  
+- 🌱 Currently learning **advanced React patterns & scalable backend architecture**.  
+- 🛠️ I love writing **clean, maintainable code** and delivering **real-world solutions**.  
+- 🌍 Freelance projects delivered across **travel, wellness, e-commerce, and industrial sectors**.  
+- ⚡ Fun fact: I enjoy mentoring junior developers and collaborating in fast-paced teams.  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,git,vite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postman,figma,linux,bootstrap" />
+</p>  
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 [**Reaesthetic & Travel**](#) — Hybrid travel & wellness booking platform  
-- Responsive booking flows (↓ form drop-offs by 30%)  
-- Affiliate system (10+ sign-ups at launch)  
-- Server state optimized with React Query v5  
+### 🔹 [Reaesthetic & Travel](#)  
+> Hybrid travel & wellness booking platform  
+✔️ Booking flows → reduced drop-offs by **30%**  
+✔️ Affiliate system → **10+ sign-ups at launch**  
+✔️ Server state optimized → API calls down **20%**  
 
-🔹 [**Novacore**](#) — Tech e-commerce platform  
-- REST APIs with Express & MongoDB (200+ products)  
-- Mobile-first UI with Chakra UI (↓ bounce rate by 22%)  
-- Secure checkout integration  
-
-🔹 [**Vootshare**](#) — Social travel platform  
-- UI built with React.js + Framer Motion for smooth UX  
-- Token-based authentication & protected routes  
-- Density map to combat mass tourism  
- 
+**Stack:** React (Vite), Chakra UI, Formik, React Query v5  
 
 ---
 
-## 📈 GitHub Stats  
+### 🔹 [Novacore](#)  
+> Tech e-commerce platform  
+✔️ REST APIs for **200+ products** with Express & MongoDB  
+✔️ Mobile-first UI → bounce rate down **22%**  
+✔️ Secure checkout integration  
+
+**Stack:** React, Chakra UI, Express, MongoDB  
+
+---
+
+### 🔹 [Vootshare](#)  
+> Social travel platform  
+✔️ Sleek UI with React + Framer Motion  
+✔️ Token-based authentication & protected routes  
+✔️ Density map to combat mass tourism  
+
+**Stack:** React.js, Chakra UI, Framer Motion, Context API  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tabet94&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabet94&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tabet94&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Tabet94&theme=tokyonight" height="160"/>
 </p>  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced React patterns  
-- API performance optimization  
-- Scalable backend architecture  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="www.linkedin.com/in/tabet-abada-870ba9225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-xi-teal-amu701ijru.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-## 🤝 Let’s Connect  
-
-🌐 Portfolio: [https://portfolio-xi-teal-amu701ijru.vercel.app](#)  
-💼 LinkedIn: [www.linkedin.com/in/tabet-abada-870ba9225](#)  
 
 
 ---
